@@ -1,0 +1,14 @@
+.lattice{
+    width: 100%;
+    height: 100%;
+}
+.layer{
+    float: left;
+}
+.sub-box{
+    background-color: yellow;
+    width: 250px;
+    height: 250px;
+    float: left;
+    margin: 5px;
+}
